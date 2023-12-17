@@ -1,0 +1,25 @@
+import os
+import torch
+from animal import transform, Net # animal.py から前処理とネットワークの定義を読み込み
+from flask import Flask, request, render_template, redirect
+import io
+from glob import glob
+import numpy as np
+import matplotlib.pyplot as plt
+from PIL import Image
+from torchvision import transforms
+import base64
+import os
+
+
+net = Net(phase='test', num_classes=6).cpu().eval()
+
+file_path = os.path.abspath('C:/Users/t_nak/Desktop/animal_app/src/ssd.pt')
+
+try:
+    checkpoint = torch.load(file_path)
+    net.load_state_dict(checkpoint)
+except FileNotFoundError:
+    print(f"File not found: {file_path}")
+except Exception as e:
+    print(f"Error loading the model: {e}")

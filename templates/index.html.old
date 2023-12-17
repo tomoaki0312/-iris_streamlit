@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Category Prediction</title>
+</head>
+<body>
+    <h1>Category Prediction</h1>
+    <form action="/predict_category" method="post">
+        <label for="newText">Enter New Text:</label>
+        <input type="text" id="newText" name="new_text" required>
+        <button type="submit">Predict Category</button>
+    </form>
+    
+    {% if predicted_category %}
+        <h2>Predicted Category:</h2>
+        <p>{{ predicted_category }}</p>
+    {% endif %}
+</body>
+</html>

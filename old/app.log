@@ -1,0 +1,2919 @@
+WARNING:multipart.multipart:Did not find CR at end of boundary (38)
+WARNING:multipart.multipart:Did not find CR at end of boundary (38)
+WARNING:multipart.multipart:Did not find CR at end of boundary (38)
+WARNING:multipart.multipart:Did not find CR at end of boundary (38)
+WARNING:multipart.multipart:Did not find CR at end of boundary (38)
+WARNING:multipart.multipart:Did not find CR at end of boundary (38)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+WARNING:multipart.multipart:Found non-alphanumeric character 10 in header at 36
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find boundary character 12 at index 2
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[0:312]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[313:530]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[531:957]
+DEBUG:multipart.multipart:Calling on_field_data with data[958:1099]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[1100:1203]
+DEBUG:multipart.multipart:Calling on_field_data with data[1204:1218]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[1219:1520]
+DEBUG:multipart.multipart:Calling on_field_data with data[1521:2361]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[2362:2363]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[2364:2799]
+DEBUG:multipart.multipart:Calling on_field_data with data[2800:3541]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3542:3584]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3585:3734]
+DEBUG:multipart.multipart:Calling on_field_data with data[3735:3764]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3765:3779]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3780:3802]
+DEBUG:multipart.multipart:Calling on_field_data with data[3803:4016]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4017:4064]
+DEBUG:multipart.multipart:Calling on_field_data with data[4065:4451]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4452:4800]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4801:4833]
+DEBUG:multipart.multipart:Calling on_field_data with data[4834:5277]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[5278:5708]
+DEBUG:multipart.multipart:Calling on_field_data with data[5709:5910]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[5911:5961]
+DEBUG:multipart.multipart:Calling on_field_data with data[5962:6498]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[6499:6509]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[6510:6951]
+DEBUG:multipart.multipart:Calling on_field_data with data[6952:7144]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[7145:7572]
+DEBUG:multipart.multipart:Calling on_field_data with data[7573:7657]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[7658:7741]
+DEBUG:multipart.multipart:Calling on_field_data with data[7742:8015]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[8016:8681]
+DEBUG:multipart.multipart:Calling on_field_data with data[8682:9707]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[9708:9738]
+DEBUG:multipart.multipart:Calling on_field_data with data[9739:11733]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[11734:12436]
+DEBUG:multipart.multipart:Calling on_field_data with data[12437:12447]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12448:12475]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12476:12533]
+DEBUG:multipart.multipart:Calling on_field_data with data[12534:12543]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12544:12645]
+DEBUG:multipart.multipart:Calling on_field_data with data[12646:13908]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[13909:14166]
+DEBUG:multipart.multipart:Calling on_field_data with data[14167:14627]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[14628:14783]
+DEBUG:multipart.multipart:Calling on_field_data with data[14784:16199]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16200:16205]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16206:16335]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16336:16417]
+DEBUG:multipart.multipart:Calling on_field_data with data[16418:17867]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[17868:17873]
+DEBUG:multipart.multipart:Calling on_field_data with data[17874:18014]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18015:18055]
+DEBUG:multipart.multipart:Calling on_field_data with data[18056:18140]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18141:18252]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18253:18297]
+DEBUG:multipart.multipart:Calling on_field_data with data[18298:18937]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18938:18973]
+DEBUG:multipart.multipart:Calling on_field_data with data[18974:19326]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[19327:19341]
+DEBUG:multipart.multipart:Calling on_field_data with data[19342:20180]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20181:20301]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20302:20355]
+DEBUG:multipart.multipart:Calling on_field_data with data[20356:20416]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20417:20610]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20611:20836]
+DEBUG:multipart.multipart:Calling on_field_data with data[20837:21598]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[21599:22013]
+DEBUG:multipart.multipart:Calling on_field_data with data[22014:22036]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[22037:22168]
+DEBUG:multipart.multipart:Calling on_field_data with data[22169:23218]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23219:23401]
+DEBUG:multipart.multipart:Calling on_field_data with data[23402:23525]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23526:23648]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23649:23773]
+DEBUG:multipart.multipart:Calling on_field_data with data[23774:24004]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[24005:24045]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[24046:24445]
+DEBUG:multipart.multipart:Calling on_field_data with data[24446:26548]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[26549:26682]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[26683:26950]
+DEBUG:multipart.multipart:Calling on_field_data with data[26951:27344]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[27345:27509]
+DEBUG:multipart.multipart:Calling on_field_data with data[27510:27646]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[27647:28246]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[28247:28552]
+DEBUG:multipart.multipart:Calling on_field_data with data[28553:28815]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[28816:28906]
+DEBUG:multipart.multipart:Calling on_field_data with data[28907:29675]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[29676:29720]
+DEBUG:multipart.multipart:Calling on_field_data with data[29721:30191]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30192:30220]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30221:30325]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30326:30644]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30645:30800]
+DEBUG:multipart.multipart:Calling on_field_data with data[30801:31471]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[31472:31550]
+DEBUG:multipart.multipart:Calling on_field_data with data[31551:33195]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33196:33218]
+DEBUG:multipart.multipart:Calling on_field_data with data[33219:33251]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33252:33283]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33284:33441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33442:33495]
+DEBUG:multipart.multipart:Calling on_field_data with data[33496:33779]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33780:34082]
+DEBUG:multipart.multipart:Calling on_field_data with data[34083:34223]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[34224:34664]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[34665:34689]
+DEBUG:multipart.multipart:Calling on_field_data with data[34690:35875]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[35876:35995]
+DEBUG:multipart.multipart:Calling on_field_data with data[35996:37977]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[37978:38236]
+DEBUG:multipart.multipart:Calling on_field_data with data[38237:39703]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[39704:39735]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[39736:39915]
+DEBUG:multipart.multipart:Calling on_field_data with data[39916:40409]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[40410:40555]
+DEBUG:multipart.multipart:Calling on_field_data with data[40556:41083]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[41084:41330]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[41331:41446]
+DEBUG:multipart.multipart:Calling on_field_data with data[41447:42142]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42143:42314]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42315:42359]
+DEBUG:multipart.multipart:Calling on_field_data with data[42360:42824]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42825:42846]
+DEBUG:multipart.multipart:Calling on_field_data with data[42847:43320]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[43321:43456]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_data with data[43458:43747]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[43748:44291]
+DEBUG:multipart.multipart:Calling on_field_data with data[44292:44884]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[44885:45014]
+DEBUG:multipart.multipart:Calling on_field_data with data[45015:45156]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[45157:45559]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[45560:45951]
+DEBUG:multipart.multipart:Calling on_field_data with data[45952:47679]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[47680:47820]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[47821:47837]
+DEBUG:multipart.multipart:Calling on_field_data with data[47838:48259]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48260:48340]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48341:48614]
+DEBUG:multipart.multipart:Calling on_field_data with data[48615:48980]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48981:49406]
+DEBUG:multipart.multipart:Calling on_field_data with data[49407:50448]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[50449:50464]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[50465:50676]
+DEBUG:multipart.multipart:Calling on_field_data with data[50677:51023]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[51024:51305]
+DEBUG:multipart.multipart:Calling on_field_data with data[51306:52798]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[52799:53044]
+DEBUG:multipart.multipart:Calling on_field_data with data[53045:54655]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[54656:54664]
+DEBUG:multipart.multipart:Calling on_field_data with data[54665:54802]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[54803:55149]
+DEBUG:multipart.multipart:Calling on_field_data with data[55150:55161]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55162:55318]
+DEBUG:multipart.multipart:Calling on_field_data with data[55319:55721]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55722:55871]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55872:55940]
+DEBUG:multipart.multipart:Calling on_field_data with data[55941:56269]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[56270:56523]
+DEBUG:multipart.multipart:Calling on_field_data with data[56524:57327]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[57328:57376]
+DEBUG:multipart.multipart:Calling on_field_data with data[57377:57985]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[57986:58550]
+DEBUG:multipart.multipart:Calling on_field_data with data[58551:58657]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[58658:58961]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[58962:59277]
+DEBUG:multipart.multipart:Calling on_field_data with data[59278:59443]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[59444:60002]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60003:60153]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60154:60194]
+DEBUG:multipart.multipart:Calling on_field_data with data[60195:60818]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60819:60962]
+DEBUG:multipart.multipart:Calling on_field_data with data[60963:62370]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62371:62550]
+DEBUG:multipart.multipart:Calling on_field_data with data[62551:62713]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62714:62839]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62840:62855]
+DEBUG:multipart.multipart:Calling on_field_data with data[62856:64824]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[64825:64856]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[64857:65034]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65035:65097]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65098:65281]
+DEBUG:multipart.multipart:Calling on_field_data with data[65282:65347]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65348:65359]
+DEBUG:multipart.multipart:Calling on_field_data with data[65360:65448]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65449:65450]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65451:65534]
+DEBUG:multipart.multipart:Calling on_field_data with data[65535:67632]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[67633:67824]
+DEBUG:multipart.multipart:Calling on_field_data with data[67825:68235]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[68236:68658]
+DEBUG:multipart.multipart:Calling on_field_data with data[68659:68972]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[68973:69178]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69179:69195]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69196:69221]
+DEBUG:multipart.multipart:Calling on_field_data with data[69222:69281]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69282:69321]
+DEBUG:multipart.multipart:Calling on_field_data with data[69322:70598]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[70599:70667]
+DEBUG:multipart.multipart:Calling on_field_data with data[70668:71405]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[71406:71565]
+DEBUG:multipart.multipart:Calling on_field_data with data[71566:72123]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72124:72440]
+DEBUG:multipart.multipart:Calling on_field_data with data[72441:72701]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72702:72821]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72822:72846]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72847:72921]
+DEBUG:multipart.multipart:Calling on_field_data with data[72922:74150]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74151:74267]
+DEBUG:multipart.multipart:Calling on_field_data with data[74268:74394]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74395:74425]
+DEBUG:multipart.multipart:Calling on_field_data with data[74426:74853]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74854:75056]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75057:75290]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75291:75577]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75578:75873]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75874:76142]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76143:76168]
+DEBUG:multipart.multipart:Calling on_field_data with data[76169:76241]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76242:76409]
+DEBUG:multipart.multipart:Calling on_field_data with data[76410:76490]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76491:76650]
+DEBUG:multipart.multipart:Calling on_field_data with data[76651:76980]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76981:77450]
+DEBUG:multipart.multipart:Calling on_field_data with data[77451:77787]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[77788:78096]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[78097:78625]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[78626:78689]
+DEBUG:multipart.multipart:Calling on_field_data with data[78690:79151]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79152:79299]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79300:79482]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79483:79647]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79648:80012]
+DEBUG:multipart.multipart:Calling on_field_data with data[80013:80039]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80040:80086]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80087:80580]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80581:80655]
+DEBUG:multipart.multipart:Calling on_field_data with data[80656:80720]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80721:80834]
+DEBUG:multipart.multipart:Calling on_field_data with data[80835:81118]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81119:81214]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81215:81357]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81358:81429]
+DEBUG:multipart.multipart:Calling on_field_data with data[81430:82107]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82108:82272]
+DEBUG:multipart.multipart:Calling on_field_data with data[82273:82633]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82634:82705]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82706:83400]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83401:83418]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83419:83439]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83440:83452]
+DEBUG:multipart.multipart:Calling on_field_data with data[83453:83568]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83569:83643]
+DEBUG:multipart.multipart:Calling on_field_data with data[83644:83993]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83994:84156]
+DEBUG:multipart.multipart:Calling on_field_data with data[84157:84441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[84442:84537]
+DEBUG:multipart.multipart:Calling on_field_data with data[84538:84835]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[84836:85060]
+DEBUG:multipart.multipart:Calling on_field_data with data[85061:85137]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85138:85153]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85154:85255]
+DEBUG:multipart.multipart:Calling on_field_data with data[85256:85327]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85328:85357]
+DEBUG:multipart.multipart:Calling on_field_data with data[85358:85441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85442:85479]
+DEBUG:multipart.multipart:Calling on_field_data with data[85480:85668]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85669:86019]
+DEBUG:multipart.multipart:Calling on_field_data with data[86020:86217]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[0:312]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[313:530]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[531:957]
+DEBUG:multipart.multipart:Calling on_field_data with data[958:1099]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[1100:1203]
+DEBUG:multipart.multipart:Calling on_field_data with data[1204:1218]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[1219:1520]
+DEBUG:multipart.multipart:Calling on_field_data with data[1521:2361]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[2362:2363]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[2364:2799]
+DEBUG:multipart.multipart:Calling on_field_data with data[2800:3541]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3542:3584]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3585:3734]
+DEBUG:multipart.multipart:Calling on_field_data with data[3735:3764]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3765:3779]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3780:3802]
+DEBUG:multipart.multipart:Calling on_field_data with data[3803:4016]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4017:4064]
+DEBUG:multipart.multipart:Calling on_field_data with data[4065:4451]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4452:4800]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4801:4833]
+DEBUG:multipart.multipart:Calling on_field_data with data[4834:5277]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[5278:5708]
+DEBUG:multipart.multipart:Calling on_field_data with data[5709:5910]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[5911:5961]
+DEBUG:multipart.multipart:Calling on_field_data with data[5962:6498]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[6499:6509]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[6510:6951]
+DEBUG:multipart.multipart:Calling on_field_data with data[6952:7144]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[7145:7572]
+DEBUG:multipart.multipart:Calling on_field_data with data[7573:7657]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[7658:7741]
+DEBUG:multipart.multipart:Calling on_field_data with data[7742:8015]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[8016:8681]
+DEBUG:multipart.multipart:Calling on_field_data with data[8682:9707]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[9708:9738]
+DEBUG:multipart.multipart:Calling on_field_data with data[9739:11733]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[11734:12436]
+DEBUG:multipart.multipart:Calling on_field_data with data[12437:12447]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12448:12475]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12476:12533]
+DEBUG:multipart.multipart:Calling on_field_data with data[12534:12543]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12544:12645]
+DEBUG:multipart.multipart:Calling on_field_data with data[12646:13908]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[13909:14166]
+DEBUG:multipart.multipart:Calling on_field_data with data[14167:14627]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[14628:14783]
+DEBUG:multipart.multipart:Calling on_field_data with data[14784:16199]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16200:16205]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16206:16335]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16336:16417]
+DEBUG:multipart.multipart:Calling on_field_data with data[16418:17867]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[17868:17873]
+DEBUG:multipart.multipart:Calling on_field_data with data[17874:18014]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18015:18055]
+DEBUG:multipart.multipart:Calling on_field_data with data[18056:18140]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18141:18252]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18253:18297]
+DEBUG:multipart.multipart:Calling on_field_data with data[18298:18937]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18938:18973]
+DEBUG:multipart.multipart:Calling on_field_data with data[18974:19326]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[19327:19341]
+DEBUG:multipart.multipart:Calling on_field_data with data[19342:20180]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20181:20301]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20302:20355]
+DEBUG:multipart.multipart:Calling on_field_data with data[20356:20416]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20417:20610]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20611:20836]
+DEBUG:multipart.multipart:Calling on_field_data with data[20837:21598]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[21599:22013]
+DEBUG:multipart.multipart:Calling on_field_data with data[22014:22036]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[22037:22168]
+DEBUG:multipart.multipart:Calling on_field_data with data[22169:23218]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23219:23401]
+DEBUG:multipart.multipart:Calling on_field_data with data[23402:23525]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23526:23648]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23649:23773]
+DEBUG:multipart.multipart:Calling on_field_data with data[23774:24004]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[24005:24045]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[24046:24445]
+DEBUG:multipart.multipart:Calling on_field_data with data[24446:26548]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[26549:26682]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[26683:26950]
+DEBUG:multipart.multipart:Calling on_field_data with data[26951:27344]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[27345:27509]
+DEBUG:multipart.multipart:Calling on_field_data with data[27510:27646]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[27647:28246]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[28247:28552]
+DEBUG:multipart.multipart:Calling on_field_data with data[28553:28815]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[28816:28906]
+DEBUG:multipart.multipart:Calling on_field_data with data[28907:29675]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[29676:29720]
+DEBUG:multipart.multipart:Calling on_field_data with data[29721:30191]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30192:30220]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30221:30325]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30326:30644]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30645:30800]
+DEBUG:multipart.multipart:Calling on_field_data with data[30801:31471]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[31472:31550]
+DEBUG:multipart.multipart:Calling on_field_data with data[31551:33195]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33196:33218]
+DEBUG:multipart.multipart:Calling on_field_data with data[33219:33251]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33252:33283]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33284:33441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33442:33495]
+DEBUG:multipart.multipart:Calling on_field_data with data[33496:33779]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33780:34082]
+DEBUG:multipart.multipart:Calling on_field_data with data[34083:34223]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[34224:34664]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[34665:34689]
+DEBUG:multipart.multipart:Calling on_field_data with data[34690:35875]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[35876:35995]
+DEBUG:multipart.multipart:Calling on_field_data with data[35996:37977]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[37978:38236]
+DEBUG:multipart.multipart:Calling on_field_data with data[38237:39703]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[39704:39735]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[39736:39915]
+DEBUG:multipart.multipart:Calling on_field_data with data[39916:40409]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[40410:40555]
+DEBUG:multipart.multipart:Calling on_field_data with data[40556:41083]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[41084:41330]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[41331:41446]
+DEBUG:multipart.multipart:Calling on_field_data with data[41447:42142]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42143:42314]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42315:42359]
+DEBUG:multipart.multipart:Calling on_field_data with data[42360:42824]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42825:42846]
+DEBUG:multipart.multipart:Calling on_field_data with data[42847:43320]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[43321:43456]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_data with data[43458:43747]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[43748:44291]
+DEBUG:multipart.multipart:Calling on_field_data with data[44292:44884]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[44885:45014]
+DEBUG:multipart.multipart:Calling on_field_data with data[45015:45156]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[45157:45559]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[45560:45951]
+DEBUG:multipart.multipart:Calling on_field_data with data[45952:47679]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[47680:47820]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[47821:47837]
+DEBUG:multipart.multipart:Calling on_field_data with data[47838:48259]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48260:48340]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48341:48614]
+DEBUG:multipart.multipart:Calling on_field_data with data[48615:48980]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48981:49406]
+DEBUG:multipart.multipart:Calling on_field_data with data[49407:50448]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[50449:50464]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[50465:50676]
+DEBUG:multipart.multipart:Calling on_field_data with data[50677:51023]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[51024:51305]
+DEBUG:multipart.multipart:Calling on_field_data with data[51306:52798]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[52799:53044]
+DEBUG:multipart.multipart:Calling on_field_data with data[53045:54655]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[54656:54664]
+DEBUG:multipart.multipart:Calling on_field_data with data[54665:54802]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[54803:55149]
+DEBUG:multipart.multipart:Calling on_field_data with data[55150:55161]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55162:55318]
+DEBUG:multipart.multipart:Calling on_field_data with data[55319:55721]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55722:55871]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55872:55940]
+DEBUG:multipart.multipart:Calling on_field_data with data[55941:56269]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[56270:56523]
+DEBUG:multipart.multipart:Calling on_field_data with data[56524:57327]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[57328:57376]
+DEBUG:multipart.multipart:Calling on_field_data with data[57377:57985]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[57986:58550]
+DEBUG:multipart.multipart:Calling on_field_data with data[58551:58657]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[58658:58961]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[58962:59277]
+DEBUG:multipart.multipart:Calling on_field_data with data[59278:59443]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[59444:60002]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60003:60153]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60154:60194]
+DEBUG:multipart.multipart:Calling on_field_data with data[60195:60818]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60819:60962]
+DEBUG:multipart.multipart:Calling on_field_data with data[60963:62370]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62371:62550]
+DEBUG:multipart.multipart:Calling on_field_data with data[62551:62713]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62714:62839]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62840:62855]
+DEBUG:multipart.multipart:Calling on_field_data with data[62856:64824]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[64825:64856]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[64857:65034]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65035:65097]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65098:65281]
+DEBUG:multipart.multipart:Calling on_field_data with data[65282:65347]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65348:65359]
+DEBUG:multipart.multipart:Calling on_field_data with data[65360:65448]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65449:65450]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65451:65534]
+DEBUG:multipart.multipart:Calling on_field_data with data[65535:67632]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[67633:67824]
+DEBUG:multipart.multipart:Calling on_field_data with data[67825:68235]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[68236:68658]
+DEBUG:multipart.multipart:Calling on_field_data with data[68659:68972]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[68973:69178]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69179:69195]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69196:69221]
+DEBUG:multipart.multipart:Calling on_field_data with data[69222:69281]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69282:69321]
+DEBUG:multipart.multipart:Calling on_field_data with data[69322:70598]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[70599:70667]
+DEBUG:multipart.multipart:Calling on_field_data with data[70668:71405]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[71406:71565]
+DEBUG:multipart.multipart:Calling on_field_data with data[71566:72123]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72124:72440]
+DEBUG:multipart.multipart:Calling on_field_data with data[72441:72701]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72702:72821]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72822:72846]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72847:72921]
+DEBUG:multipart.multipart:Calling on_field_data with data[72922:74150]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74151:74267]
+DEBUG:multipart.multipart:Calling on_field_data with data[74268:74394]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74395:74425]
+DEBUG:multipart.multipart:Calling on_field_data with data[74426:74853]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74854:75056]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75057:75290]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75291:75577]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75578:75873]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75874:76142]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76143:76168]
+DEBUG:multipart.multipart:Calling on_field_data with data[76169:76241]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76242:76409]
+DEBUG:multipart.multipart:Calling on_field_data with data[76410:76490]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76491:76650]
+DEBUG:multipart.multipart:Calling on_field_data with data[76651:76980]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76981:77450]
+DEBUG:multipart.multipart:Calling on_field_data with data[77451:77787]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[77788:78096]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[78097:78625]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[78626:78689]
+DEBUG:multipart.multipart:Calling on_field_data with data[78690:79151]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79152:79299]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79300:79482]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79483:79647]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79648:80012]
+DEBUG:multipart.multipart:Calling on_field_data with data[80013:80039]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80040:80086]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80087:80580]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80581:80655]
+DEBUG:multipart.multipart:Calling on_field_data with data[80656:80720]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80721:80834]
+DEBUG:multipart.multipart:Calling on_field_data with data[80835:81118]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81119:81214]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81215:81357]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81358:81429]
+DEBUG:multipart.multipart:Calling on_field_data with data[81430:82107]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82108:82272]
+DEBUG:multipart.multipart:Calling on_field_data with data[82273:82633]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82634:82705]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82706:83400]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83401:83418]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83419:83439]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83440:83452]
+DEBUG:multipart.multipart:Calling on_field_data with data[83453:83568]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83569:83643]
+DEBUG:multipart.multipart:Calling on_field_data with data[83644:83993]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83994:84156]
+DEBUG:multipart.multipart:Calling on_field_data with data[84157:84441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[84442:84537]
+DEBUG:multipart.multipart:Calling on_field_data with data[84538:84835]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[84836:85060]
+DEBUG:multipart.multipart:Calling on_field_data with data[85061:85137]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85138:85153]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85154:85255]
+DEBUG:multipart.multipart:Calling on_field_data with data[85256:85327]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85328:85357]
+DEBUG:multipart.multipart:Calling on_field_data with data[85358:85441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85442:85479]
+DEBUG:multipart.multipart:Calling on_field_data with data[85480:85668]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85669:86019]
+DEBUG:multipart.multipart:Calling on_field_data with data[86020:86217]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[0:312]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[313:530]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[531:957]
+DEBUG:multipart.multipart:Calling on_field_data with data[958:1099]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[1100:1203]
+DEBUG:multipart.multipart:Calling on_field_data with data[1204:1218]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[1219:1520]
+DEBUG:multipart.multipart:Calling on_field_data with data[1521:2361]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[2362:2363]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[2364:2799]
+DEBUG:multipart.multipart:Calling on_field_data with data[2800:3541]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3542:3584]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3585:3734]
+DEBUG:multipart.multipart:Calling on_field_data with data[3735:3764]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3765:3779]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[3780:3802]
+DEBUG:multipart.multipart:Calling on_field_data with data[3803:4016]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4017:4064]
+DEBUG:multipart.multipart:Calling on_field_data with data[4065:4451]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4452:4800]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[4801:4833]
+DEBUG:multipart.multipart:Calling on_field_data with data[4834:5277]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[5278:5708]
+DEBUG:multipart.multipart:Calling on_field_data with data[5709:5910]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[5911:5961]
+DEBUG:multipart.multipart:Calling on_field_data with data[5962:6498]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[6499:6509]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[6510:6951]
+DEBUG:multipart.multipart:Calling on_field_data with data[6952:7144]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[7145:7572]
+DEBUG:multipart.multipart:Calling on_field_data with data[7573:7657]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[7658:7741]
+DEBUG:multipart.multipart:Calling on_field_data with data[7742:8015]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[8016:8681]
+DEBUG:multipart.multipart:Calling on_field_data with data[8682:9707]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[9708:9738]
+DEBUG:multipart.multipart:Calling on_field_data with data[9739:11733]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[11734:12436]
+DEBUG:multipart.multipart:Calling on_field_data with data[12437:12447]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12448:12475]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12476:12533]
+DEBUG:multipart.multipart:Calling on_field_data with data[12534:12543]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[12544:12645]
+DEBUG:multipart.multipart:Calling on_field_data with data[12646:13908]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[13909:14166]
+DEBUG:multipart.multipart:Calling on_field_data with data[14167:14627]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[14628:14783]
+DEBUG:multipart.multipart:Calling on_field_data with data[14784:16199]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16200:16205]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16206:16335]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[16336:16417]
+DEBUG:multipart.multipart:Calling on_field_data with data[16418:17867]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[17868:17873]
+DEBUG:multipart.multipart:Calling on_field_data with data[17874:18014]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18015:18055]
+DEBUG:multipart.multipart:Calling on_field_data with data[18056:18140]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18141:18252]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18253:18297]
+DEBUG:multipart.multipart:Calling on_field_data with data[18298:18937]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[18938:18973]
+DEBUG:multipart.multipart:Calling on_field_data with data[18974:19326]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[19327:19341]
+DEBUG:multipart.multipart:Calling on_field_data with data[19342:20180]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20181:20301]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20302:20355]
+DEBUG:multipart.multipart:Calling on_field_data with data[20356:20416]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20417:20610]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[20611:20836]
+DEBUG:multipart.multipart:Calling on_field_data with data[20837:21598]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[21599:22013]
+DEBUG:multipart.multipart:Calling on_field_data with data[22014:22036]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[22037:22168]
+DEBUG:multipart.multipart:Calling on_field_data with data[22169:23218]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23219:23401]
+DEBUG:multipart.multipart:Calling on_field_data with data[23402:23525]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23526:23648]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[23649:23773]
+DEBUG:multipart.multipart:Calling on_field_data with data[23774:24004]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[24005:24045]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[24046:24445]
+DEBUG:multipart.multipart:Calling on_field_data with data[24446:26548]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[26549:26682]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[26683:26950]
+DEBUG:multipart.multipart:Calling on_field_data with data[26951:27344]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[27345:27509]
+DEBUG:multipart.multipart:Calling on_field_data with data[27510:27646]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[27647:28246]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[28247:28552]
+DEBUG:multipart.multipart:Calling on_field_data with data[28553:28815]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[28816:28906]
+DEBUG:multipart.multipart:Calling on_field_data with data[28907:29675]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[29676:29720]
+DEBUG:multipart.multipart:Calling on_field_data with data[29721:30191]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30192:30220]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30221:30325]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30326:30644]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[30645:30800]
+DEBUG:multipart.multipart:Calling on_field_data with data[30801:31471]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[31472:31550]
+DEBUG:multipart.multipart:Calling on_field_data with data[31551:33195]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33196:33218]
+DEBUG:multipart.multipart:Calling on_field_data with data[33219:33251]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33252:33283]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33284:33441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33442:33495]
+DEBUG:multipart.multipart:Calling on_field_data with data[33496:33779]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[33780:34082]
+DEBUG:multipart.multipart:Calling on_field_data with data[34083:34223]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[34224:34664]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[34665:34689]
+DEBUG:multipart.multipart:Calling on_field_data with data[34690:35875]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[35876:35995]
+DEBUG:multipart.multipart:Calling on_field_data with data[35996:37977]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[37978:38236]
+DEBUG:multipart.multipart:Calling on_field_data with data[38237:39703]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[39704:39735]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[39736:39915]
+DEBUG:multipart.multipart:Calling on_field_data with data[39916:40409]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[40410:40555]
+DEBUG:multipart.multipart:Calling on_field_data with data[40556:41083]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[41084:41330]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[41331:41446]
+DEBUG:multipart.multipart:Calling on_field_data with data[41447:42142]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42143:42314]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42315:42359]
+DEBUG:multipart.multipart:Calling on_field_data with data[42360:42824]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[42825:42846]
+DEBUG:multipart.multipart:Calling on_field_data with data[42847:43320]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[43321:43456]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_data with data[43458:43747]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[43748:44291]
+DEBUG:multipart.multipart:Calling on_field_data with data[44292:44884]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[44885:45014]
+DEBUG:multipart.multipart:Calling on_field_data with data[45015:45156]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[45157:45559]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[45560:45951]
+DEBUG:multipart.multipart:Calling on_field_data with data[45952:47679]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[47680:47820]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[47821:47837]
+DEBUG:multipart.multipart:Calling on_field_data with data[47838:48259]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48260:48340]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48341:48614]
+DEBUG:multipart.multipart:Calling on_field_data with data[48615:48980]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[48981:49406]
+DEBUG:multipart.multipart:Calling on_field_data with data[49407:50448]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[50449:50464]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[50465:50676]
+DEBUG:multipart.multipart:Calling on_field_data with data[50677:51023]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[51024:51305]
+DEBUG:multipart.multipart:Calling on_field_data with data[51306:52798]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[52799:53044]
+DEBUG:multipart.multipart:Calling on_field_data with data[53045:54655]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[54656:54664]
+DEBUG:multipart.multipart:Calling on_field_data with data[54665:54802]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[54803:55149]
+DEBUG:multipart.multipart:Calling on_field_data with data[55150:55161]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55162:55318]
+DEBUG:multipart.multipart:Calling on_field_data with data[55319:55721]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55722:55871]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[55872:55940]
+DEBUG:multipart.multipart:Calling on_field_data with data[55941:56269]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[56270:56523]
+DEBUG:multipart.multipart:Calling on_field_data with data[56524:57327]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[57328:57376]
+DEBUG:multipart.multipart:Calling on_field_data with data[57377:57985]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[57986:58550]
+DEBUG:multipart.multipart:Calling on_field_data with data[58551:58657]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[58658:58961]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[58962:59277]
+DEBUG:multipart.multipart:Calling on_field_data with data[59278:59443]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[59444:60002]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60003:60153]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60154:60194]
+DEBUG:multipart.multipart:Calling on_field_data with data[60195:60818]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[60819:60962]
+DEBUG:multipart.multipart:Calling on_field_data with data[60963:62370]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62371:62550]
+DEBUG:multipart.multipart:Calling on_field_data with data[62551:62713]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62714:62839]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[62840:62855]
+DEBUG:multipart.multipart:Calling on_field_data with data[62856:64824]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[64825:64856]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[64857:65034]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65035:65097]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65098:65281]
+DEBUG:multipart.multipart:Calling on_field_data with data[65282:65347]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65348:65359]
+DEBUG:multipart.multipart:Calling on_field_data with data[65360:65448]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65449:65450]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[65451:65534]
+DEBUG:multipart.multipart:Calling on_field_data with data[65535:67632]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[67633:67824]
+DEBUG:multipart.multipart:Calling on_field_data with data[67825:68235]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[68236:68658]
+DEBUG:multipart.multipart:Calling on_field_data with data[68659:68972]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[68973:69178]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69179:69195]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69196:69221]
+DEBUG:multipart.multipart:Calling on_field_data with data[69222:69281]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[69282:69321]
+DEBUG:multipart.multipart:Calling on_field_data with data[69322:70598]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[70599:70667]
+DEBUG:multipart.multipart:Calling on_field_data with data[70668:71405]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[71406:71565]
+DEBUG:multipart.multipart:Calling on_field_data with data[71566:72123]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72124:72440]
+DEBUG:multipart.multipart:Calling on_field_data with data[72441:72701]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72702:72821]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72822:72846]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[72847:72921]
+DEBUG:multipart.multipart:Calling on_field_data with data[72922:74150]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74151:74267]
+DEBUG:multipart.multipart:Calling on_field_data with data[74268:74394]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74395:74425]
+DEBUG:multipart.multipart:Calling on_field_data with data[74426:74853]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[74854:75056]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75057:75290]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75291:75577]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75578:75873]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[75874:76142]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76143:76168]
+DEBUG:multipart.multipart:Calling on_field_data with data[76169:76241]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76242:76409]
+DEBUG:multipart.multipart:Calling on_field_data with data[76410:76490]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76491:76650]
+DEBUG:multipart.multipart:Calling on_field_data with data[76651:76980]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[76981:77450]
+DEBUG:multipart.multipart:Calling on_field_data with data[77451:77787]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[77788:78096]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[78097:78625]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[78626:78689]
+DEBUG:multipart.multipart:Calling on_field_data with data[78690:79151]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79152:79299]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79300:79482]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79483:79647]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[79648:80012]
+DEBUG:multipart.multipart:Calling on_field_data with data[80013:80039]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80040:80086]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80087:80580]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80581:80655]
+DEBUG:multipart.multipart:Calling on_field_data with data[80656:80720]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[80721:80834]
+DEBUG:multipart.multipart:Calling on_field_data with data[80835:81118]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81119:81214]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81215:81357]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[81358:81429]
+DEBUG:multipart.multipart:Calling on_field_data with data[81430:82107]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82108:82272]
+DEBUG:multipart.multipart:Calling on_field_data with data[82273:82633]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82634:82705]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[82706:83400]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83401:83418]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83419:83439]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83440:83452]
+DEBUG:multipart.multipart:Calling on_field_data with data[83453:83568]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83569:83643]
+DEBUG:multipart.multipart:Calling on_field_data with data[83644:83993]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[83994:84156]
+DEBUG:multipart.multipart:Calling on_field_data with data[84157:84441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[84442:84537]
+DEBUG:multipart.multipart:Calling on_field_data with data[84538:84835]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[84836:85060]
+DEBUG:multipart.multipart:Calling on_field_data with data[85061:85137]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85138:85153]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85154:85255]
+DEBUG:multipart.multipart:Calling on_field_data with data[85256:85327]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85328:85357]
+DEBUG:multipart.multipart:Calling on_field_data with data[85358:85441]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85442:85479]
+DEBUG:multipart.multipart:Calling on_field_data with data[85480:85668]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_field_start with no data
+DEBUG:multipart.multipart:Calling on_field_name with data[85669:86019]
+DEBUG:multipart.multipart:Calling on_field_data with data[86020:86217]
+DEBUG:multipart.multipart:Calling on_field_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+WARNING:multipart.multipart:Did not find CR at end of boundary (34)
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:58040]
+DEBUG:multipart.multipart:Calling on_part_data with data[0:1]
+DEBUG:multipart.multipart:Calling on_part_data with data[58041:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 69, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+DEBUG:PIL.Image:Importing BlpImagePlugin
+DEBUG:PIL.Image:Importing BmpImagePlugin
+DEBUG:PIL.Image:Importing BufrStubImagePlugin
+DEBUG:PIL.Image:Importing CurImagePlugin
+DEBUG:PIL.Image:Importing DcxImagePlugin
+DEBUG:PIL.Image:Importing DdsImagePlugin
+DEBUG:PIL.Image:Importing EpsImagePlugin
+DEBUG:PIL.Image:Importing FitsImagePlugin
+DEBUG:PIL.Image:Importing FliImagePlugin
+DEBUG:PIL.Image:Importing FpxImagePlugin
+DEBUG:PIL.Image:Image: failed to import FpxImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing FtexImagePlugin
+DEBUG:PIL.Image:Importing GbrImagePlugin
+DEBUG:PIL.Image:Importing GifImagePlugin
+DEBUG:PIL.Image:Importing GribStubImagePlugin
+DEBUG:PIL.Image:Importing Hdf5StubImagePlugin
+DEBUG:PIL.Image:Importing IcnsImagePlugin
+DEBUG:PIL.Image:Importing IcoImagePlugin
+DEBUG:PIL.Image:Importing ImImagePlugin
+DEBUG:PIL.Image:Importing ImtImagePlugin
+DEBUG:PIL.Image:Importing IptcImagePlugin
+DEBUG:PIL.Image:Importing JpegImagePlugin
+DEBUG:PIL.Image:Importing Jpeg2KImagePlugin
+DEBUG:PIL.Image:Importing McIdasImagePlugin
+DEBUG:PIL.Image:Importing MicImagePlugin
+DEBUG:PIL.Image:Image: failed to import MicImagePlugin: No module named 'olefile'
+DEBUG:PIL.Image:Importing MpegImagePlugin
+DEBUG:PIL.Image:Importing MpoImagePlugin
+DEBUG:PIL.Image:Importing MspImagePlugin
+DEBUG:PIL.Image:Importing PalmImagePlugin
+DEBUG:PIL.Image:Importing PcdImagePlugin
+DEBUG:PIL.Image:Importing PcxImagePlugin
+DEBUG:PIL.Image:Importing PdfImagePlugin
+DEBUG:PIL.Image:Importing PixarImagePlugin
+DEBUG:PIL.Image:Importing PngImagePlugin
+DEBUG:PIL.Image:Importing PpmImagePlugin
+DEBUG:PIL.Image:Importing PsdImagePlugin
+DEBUG:PIL.Image:Importing QoiImagePlugin
+DEBUG:PIL.Image:Importing SgiImagePlugin
+DEBUG:PIL.Image:Importing SpiderImagePlugin
+DEBUG:PIL.Image:Importing SunImagePlugin
+DEBUG:PIL.Image:Importing TgaImagePlugin
+DEBUG:PIL.Image:Importing TiffImagePlugin
+DEBUG:PIL.Image:Importing WebPImagePlugin
+DEBUG:PIL.Image:Importing WmfImagePlugin
+DEBUG:PIL.Image:Importing XbmImagePlugin
+DEBUG:PIL.Image:Importing XpmImagePlugin
+DEBUG:PIL.Image:Importing XVThumbImagePlugin
+ERROR:root:Error processing file: cannot identify image file <_io.BytesIO object at 0x00000215F52E2660>
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 64, in predict
+    image = Image.open(io.BytesIO(content)).convert("RGB")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3280, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x00000215F52E2660>
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+WARNING:multipart.multipart:Did not find boundary character 99 at index 4
+WARNING:multipart.multipart:Did not find boundary character 99 at index 4
+WARNING:multipart.multipart:Did not find boundary character 99 at index 4
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: cannot identify image file <_io.BytesIO object at 0x0000021583A0F880>
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 64, in predict
+    image = Image.open(io.BytesIO(content)).convert("RGB")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3280, in open
+    raise UnidentifiedImageError(msg)
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x0000021583A0F880>
+
+
+
+
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:58040]
+DEBUG:multipart.multipart:Calling on_part_data with data[0:1]
+DEBUG:multipart.multipart:Calling on_part_data with data[58041:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 70, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app.py", line 70, in predict
+    prediction = net(image)
+                 ^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 332, in forward
+    return self.detect.apply(output, self.num_classes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\autograd\function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 276, in forward
+    decoded_boxes = decode(loc_data[i], prior_data, variance)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 160, in decode
+    boxes = torch.cat((priors[:, :2] + loc[:, :2] * variances[0] * priors[:, 2:], priors[:, 2:] * torch.exp(loc[:, 2:] * variances[1])), 1)
+                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+RuntimeError: The size of tensor a (38600) must match the size of tensor b (8732) at non-singleton dimension 0
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: pic should be PIL Image or ndarray. Got <class 'torch.Tensor'>
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 76, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 46, in preprocess_image
+    input_tensor = transform(image)
+                   ^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\transforms.py", line 95, in __call__
+    img = t(img)
+          ^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\transforms.py", line 137, in __call__
+    return F.to_tensor(pic)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\functional.py", line 140, in to_tensor
+    raise TypeError(f"pic should be PIL Image or ndarray. Got {type(pic)}")
+TypeError: pic should be PIL Image or ndarray. Got <class 'torch.Tensor'>
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: pic should be 2/3 dimensional. Got 4 dimensions.
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 80, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 47, in preprocess_image
+    image = transforms.ToPILImage()(image)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\transforms.py", line 234, in __call__
+    return F.to_pil_image(pic, self.mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\functional.py", line 266, in to_pil_image
+    raise ValueError(f"pic should be 2/3 dimensional. Got {pic.ndimension()} dimensions.")
+ValueError: pic should be 2/3 dimensional. Got 4 dimensions.
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: pic should be 2/3 dimensional. Got 4 dimensions.
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 80, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 47, in preprocess_image
+    image = transforms.ToPILImage()(image)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\transforms.py", line 234, in __call__
+    return F.to_pil_image(pic, self.mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\functional.py", line 266, in to_pil_image
+    raise ValueError(f"pic should be 2/3 dimensional. Got {pic.ndimension()} dimensions.")
+ValueError: pic should be 2/3 dimensional. Got 4 dimensions.
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1216
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: Unexpected type <class 'numpy.ndarray'>
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 82, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 52, in preprocess_image
+    input_tensor = transform(image)
+                   ^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\transforms.py", line 95, in __call__
+    img = t(img)
+          ^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\transforms.py", line 361, in forward
+    return F.resize(img, self.size, self.interpolation, self.max_size, self.antialias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\functional.py", line 476, in resize
+    _, image_height, image_width = get_dimensions(img)
+                                   ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\functional.py", line 78, in get_dimensions
+    return F_pil.get_dimensions(img)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torchvision\transforms\_functional_pil.py", line 31, in get_dimensions
+    raise TypeError(f"Unexpected type {type(img)}")
+TypeError: Unexpected type <class 'numpy.ndarray'>
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: 'Tensor' object has no attribute 'astype'
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 81, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 47, in preprocess_image
+    image_pil = Image.fromarray((image * 255).astype(np.uint8))
+                                ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Tensor' object has no attribute 'astype'
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: Cannot handle this data type: (1, 1, 640, 640), |u1
+Traceback (most recent call last):
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3070, in fromarray
+    mode, rawmode = _fromarray_typemap[typekey]
+                    ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: ((1, 1, 640, 640), '|u1')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 84, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 50, in preprocess_image
+    image_pil = Image.fromarray((image_np * 255).astype(np.uint8))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3073, in fromarray
+    raise TypeError(msg) from e
+TypeError: Cannot handle this data type: (1, 1, 640, 640), |u1
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: Cannot handle this data type: (1, 1, 640), |u1
+Traceback (most recent call last):
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3070, in fromarray
+    mode, rawmode = _fromarray_typemap[typekey]
+                    ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: ((1, 1, 640), '|u1')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 88, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 54, in preprocess_image
+    image_pil = Image.fromarray((image_np * 255).astype(np.uint8))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3073, in fromarray
+    raise TypeError(msg) from e
+TypeError: Cannot handle this data type: (1, 1, 640), |u1
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: Cannot handle this data type: (1, 1, 640), |u1
+Traceback (most recent call last):
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3070, in fromarray
+    mode, rawmode = _fromarray_typemap[typekey]
+                    ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: ((1, 1, 640), '|u1')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 88, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 54, in preprocess_image
+    image_pil = Image.fromarray((image_np * 255).astype(np.uint8))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3073, in fromarray
+    raise TypeError(msg) from e
+TypeError: Cannot handle this data type: (1, 1, 640), |u1
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: Cannot handle this data type: (1, 1, 640), |u1
+Traceback (most recent call last):
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3070, in fromarray
+    mode, rawmode = _fromarray_typemap[typekey]
+                    ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: ((1, 1, 640), '|u1')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 91, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 57, in preprocess_image
+    image_pil = Image.fromarray((image_np * 255).astype(np.uint8))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3073, in fromarray
+    raise TypeError(msg) from e
+TypeError: Cannot handle this data type: (1, 1, 640), |u1
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: Cannot handle this data type: (1, 1, 640), |u1
+Traceback (most recent call last):
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3070, in fromarray
+    mode, rawmode = _fromarray_typemap[typekey]
+                    ~~~~~~~~~~~~~~~~~~^^^^^^^^^
+KeyError: ((1, 1, 640), '|u1')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 95, in predict
+    input_batch = preprocess_image(image)
+                  ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 61, in preprocess_image
+    image_pil = Image.fromarray((image_np * 255).astype(np.uint8))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\PIL\Image.py", line 3073, in fromarray
+    raise TypeError(msg) from e
+TypeError: Cannot handle this data type: (1, 1, 640), |u1
+DEBUG:multipart.multipart:Calling on_part_begin with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[36:55]
+DEBUG:multipart.multipart:Calling on_header_value with data[57:163]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_header_field with data[165:177]
+DEBUG:multipart.multipart:Calling on_header_value with data[179:189]
+DEBUG:multipart.multipart:Calling on_header_end with no data
+DEBUG:multipart.multipart:Calling on_headers_finished with no data
+DEBUG:multipart.multipart:Calling on_part_data with data[193:86410]
+DEBUG:multipart.multipart:Calling on_part_end with no data
+DEBUG:multipart.multipart:Calling on_end with no data
+INFO:root:Root endpoint accessed
+ERROR:root:Error processing file: object of type 'NoneType' has no len()
+Traceback (most recent call last):
+  File "C:\Users\t_nak\Desktop\animal_app\src\app_copy.py", line 103, in predict
+    prediction = net(input_batch)
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\nakamura\tomoaki\Lib\site-packages\torch\nn\modules\module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\t_nak\Desktop\animal_app\src\SSDNet.py", line 308, in forward
+    bs = len(x)
+         ^^^^^^
+TypeError: object of type 'NoneType' has no len()
+
+
+
+
